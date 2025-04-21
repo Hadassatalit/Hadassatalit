@@ -3,7 +3,6 @@
 - Estudante de Análise de Sistemas  
 - Iniciando minha jornada como desenvolvedora  
 - Interesse em front-end, explorando também o back-end  
-- Gosto de aprender na prática e construir projetos reais  
 - Aqui compartilho meus estudos, códigos e experimentos
 
 ---
