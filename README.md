@@ -2,12 +2,12 @@
 
 - Estudante de Análise de Sistemas  
 - Iniciando minha jornada como desenvolvedora  
-- Interesse em front-end, explorando também o back-end  
-- Aqui compartilho meus estudos, códigos e experimentos
+- Interessada em front-end, explorando também o back-end  
+- Buscando aprender na prática com projetos e estudos  
+- Criando este espaço para organizar e compartilhar meu progresso
 
----
 
-## 🧠 Tecnologias que estou aprendendo
+ ## 🧠 Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
