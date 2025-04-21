@@ -1,7 +1,7 @@
 ## Oiii, Eu sou Hadassa Talita!
 
 - Estudante de Análise de Sistemas  
-- Iniciando minha jornada como desenvolvedora  
+- Iniciando minha jornada como desenvolvedora 
 - Interessada em front-end, explorando também o back-end  
 - Buscando aprender na prática com projetos e estudos  
 - Criando este espaço para organizar e compartilhar meu progresso
