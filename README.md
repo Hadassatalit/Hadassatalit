@@ -37,8 +37,6 @@
 
 
 
-
-
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -46,7 +44,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Meu Perfil</title>
   <style>
-    /* Estilos gerais, se necessário */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    /* Estilo para o GIF ficar fixo no canto */
+    #avatar {
+      position: fixed;
+      left: 10px;
+      top: 10px;
+      height: 150px; /* Ajuste o tamanho conforme necessário */
+      z-index: 10; /* Garante que o GIF fique sobre os outros elementos */
+    }
   </style>
 </head>
 <body>
@@ -79,8 +88,8 @@
     </a>
   </div>
 
-  <!-- GIF Fixado no canto -->
-  <img alt="Avatar" src="avatar_animation_fixed.gif" height="150" style="position: fixed; left: 0; top: 0; margin: 10px;" />
+  <!-- GIF fixo no canto superior esquerdo -->
+  <img alt="Avatar" id="avatar" src="avatar_animation_fixed.gif" />
 </body>
 </html>
 
