@@ -58,6 +58,6 @@
 
 ## ✨ Um toque pessoal
 
-![Avatar Animation](avatar_animation.gif)
+![Avatar Animation](avatar_animation)
 
 
