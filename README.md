@@ -27,7 +27,6 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank"></a>
 
-  ## ✨ Um toque pessoal
 
 ![Avatar Animation](avatar_animation_fixed.gif)
 
