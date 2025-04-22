@@ -30,5 +30,5 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank"></a>
 
-  <img alt="Avatar" src="avatar_animation_fixed.gif" height="150" style="float: left; margin-right: 1000px;" />
+  <img alt="Avatar" src="avatar_animation_fixed.gif" height="150" style="position: absolute; left: 0; top: 0;" />
 </p>
