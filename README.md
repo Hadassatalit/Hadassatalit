@@ -1,5 +1,6 @@
 ## Oiii, Eu sou Hadassa Talita!
 
+- estudante de analise de sistesmas
 - Interessada em front-end, explorando também o back-end  
 - Buscando aprender na prática com projetos e estudos  
 - Criando este espaço para organizar e compartilhar meu progresso
