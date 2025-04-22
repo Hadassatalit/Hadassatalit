@@ -20,18 +20,12 @@
 
 ## 📫 Onde me encontrar
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <a href="https://www.instagram.com/hadassatalitaa" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a><br><br>
-    <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a><br><br>
-    <a href="mailto:dassatalita@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </div>
-
-  <img src="https://www.canva.com/design/DAGlPYA2HeM/P6IaFYwBI1L_43d93ij9QQ/view?utm_content=DAGlPYA2HeM&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel" width="200" alt="gif" style="margin-left: 20px;" />
-</div>
+<p align="left">
+  <a href="https://www.instagram.com/hadassatalitaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBhYmVvbWI4OXZ1YzJmN3lmOWd2NzhrdXF0d3o2OTNwdmltODh1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N256GFyZnmw7W/giphy.gif" width="160" alt="gif animado" style="margin-left: 30px;" />
+</p>
