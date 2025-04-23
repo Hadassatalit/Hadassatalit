@@ -23,21 +23,19 @@
 <table width="100%">
   <tr>
     <td align="left" valign="top">
-      <p>
-        <a href="https://instagram.com/hadassatalitaa" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        </a>
-        <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </p>
+      <h3>🌐 Onde me encontrar</h3>
+      <a href="https://instagram.com/hadassatalitaa" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
     </td>
-    <td align="right" valign="top" width="180">
-      <img src="https://i.imgur.com/nV2qyGP.gif" alt="Avatar animado" width="180"/>
+    <td align="right" valign="top" width="200">
+      <img src="https://i.imgur.com/nV2qyGP.gif" alt="Avatar animado" width="200"/>
     </td>
   </tr>
 </table>
-
 
 
 
