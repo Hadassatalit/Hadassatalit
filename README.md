@@ -23,7 +23,7 @@
 <table width="100%">
   <tr>
     <td align="left" valign="top">
-      <h3>🌐 Onde me encontrar</h3>
+      
       <p>
         <a href="https://instagram.com/hadassatalitaa" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
