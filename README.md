@@ -33,24 +33,15 @@
   <img src="https://i.imgur.com/nV2qyGP.gif" width="200" alt="gif animado piscando" />
 <h3 align="left">🌐 Onde me encontrar</h3>
 
-<table width="100%">
-  <tr>
-    <td>
-      <a href="https://instagram.com/hadassatalitaa" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-      <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://i.imgur.com/nV2qyGP.gif" alt="Avatar animado" width="100"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://instagram.com/hadassatalitaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-
-
-
-
-
+<p align="right">
+  <img src="https://i.imgur.com/nV2qyGP.gif" alt="Avatar animado" width="100"/>
+</p>
