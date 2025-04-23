@@ -32,23 +32,23 @@
 
   <img src="https://i.imgur.com/nV2qyGP.gif" width="200" alt="gif animado piscando" />
 
-
-
 <h3 align="left">🌐 Onde me encontrar</h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  
-  <div style="display: flex; gap: 10px;">
-    <a href="https://instagram.com/hadassatalitaa" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
-
-  <img src="https://i.imgur.com/nV2qyGP.gif" alt="Avatar animado" width="120" style="margin-left: 40px;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://instagram.com/hadassatalitaa" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/nV2qyGP.gif" alt="Avatar animado" width="100"/>
+    </td>
+  </tr>
+</table>
 
 
 
