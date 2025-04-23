@@ -30,7 +30,8 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.linkedin.com/in/hadassa-talita" target="_blank"></a>
 
-  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/avatar_animation_fixed-ezgif.com-speed.gif?raw=true" width="200" alt="gif piscando" />
+  <img src="https://i.imgur.com/nV2qyGP.gif" width="200" alt="gif animado piscando" />
+
 
 
 
